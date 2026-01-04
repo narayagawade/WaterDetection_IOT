@@ -95,6 +95,7 @@ Open a Pull Request
 ## 👨‍💻 Developed By
   
    **Narayan Ashok Gawade** 
-   *"Safety First — Ride Smart"*
+   
+   *"Check the Source, Trust the Tap."*
 
    ⭐ **Star this repo if you like it!** **Feel free to fork and improve!** **Live Demo Coming Soon...**
