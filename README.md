@@ -70,6 +70,7 @@ Firmware: * Open esp32_full_code.ino in Arduino IDE.
 Update WiFi SSID, Password, and your Server URL.
 
 Upload to ESP32.
+```
 
 📈 Future Roadmap
 [ ] WebSockets: Implementation for zero-latency chart updates.
@@ -88,5 +89,12 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+```
 
----
+```
+## 👨‍💻 Developed By
+  
+   **Narayan Ashok Gawade** 
+   *"Safety First — Ride Smart"*
+
+   ⭐ **Star this repo if you like it!** **Feel free to fork and improve!** **Live Demo Coming Soon...**
